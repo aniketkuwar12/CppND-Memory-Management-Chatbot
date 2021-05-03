@@ -41,8 +41,6 @@ ChatBot::~ChatBot()
         _image = NULL;
     }
 
-    //_chatLogic = nullptr;
-    //_rootNode = nullptr;
 }
 
 ChatBot::ChatBot(const ChatBot& source)
